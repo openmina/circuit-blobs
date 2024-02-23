@@ -1,3 +1,6 @@
+
+Use `git clone --depth 1 https://github.com/openmina/circuit-blobs.git` to avoid pulling the whole history
+
 Various binaries used during witness generation, and testings
 
 - All `*_gates.json` are the list of gates, for each circuit
